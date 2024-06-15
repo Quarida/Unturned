@@ -1,0 +1,17 @@
+C:\Users\Enes\source\repos\OtoSave\OtoSave\bin\Debug\OtoSave.dll.config
+C:\Users\Enes\source\repos\OtoSave\OtoSave\bin\Debug\OtoSave.dll
+C:\Users\Enes\source\repos\OtoSave\OtoSave\bin\Debug\OtoSave.pdb
+C:\Users\Enes\source\repos\OtoSave\OtoSave\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Enes\source\repos\OtoSave\OtoSave\bin\Debug\Assembly-CSharp.dll
+C:\Users\Enes\source\repos\OtoSave\OtoSave\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\Enes\source\repos\OtoSave\OtoSave\bin\Debug\Rocket.API.dll
+C:\Users\Enes\source\repos\OtoSave\OtoSave\bin\Debug\Rocket.Core.dll
+C:\Users\Enes\source\repos\OtoSave\OtoSave\bin\Debug\Rocket.Unturned.dll
+C:\Users\Enes\source\repos\OtoSave\OtoSave\bin\Debug\SDG.NetTransport.dll
+C:\Users\Enes\source\repos\OtoSave\OtoSave\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Enes\source\repos\OtoSave\OtoSave\bin\Debug\UnityEngine.dll
+C:\Users\Enes\source\repos\OtoSave\OtoSave\obj\Debug\OtoSave.csproj.AssemblyReference.cache
+C:\Users\Enes\source\repos\OtoSave\OtoSave\obj\Debug\OtoSave.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\OtoSave\OtoSave\obj\Debug\OtoSave.csproj.CopyComplete
+C:\Users\Enes\source\repos\OtoSave\OtoSave\obj\Debug\OtoSave.dll
+C:\Users\Enes\source\repos\OtoSave\OtoSave\obj\Debug\OtoSave.pdb
